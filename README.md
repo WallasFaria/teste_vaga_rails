@@ -4,7 +4,7 @@ O objetivo deste mini projeto é fornecer uma api restfull para gerenciar
 o catálogo de produtos de um ecommerce.
 
 ### O que já está pronto:
-A api de produtos conforme a documentação abaixo
+A api de produtos conforme a [documentação abaixo](#api-documentation)
 
 ### Tarefas:
 1. Adicionar paginação a api de produtos
