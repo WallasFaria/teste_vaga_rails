@@ -81,8 +81,15 @@ OBS:
 
 ## Rodando o projeto:
 
+Requisitos:
+  - Ruby 3.0.1
+  - Rails 6.1.4
+  - Postgresql
+
+Comandos:
+
 ```bash
-git clone https://github.com/Hendel-Tecnologia/teste_vaga_rails
+git clone https://github.com/WallasFaria/teste_vaga_rails.git
 ```
 
 ```bash
@@ -97,7 +104,7 @@ bundle install
 rails db:create db:migrate db:seed && RAILS_ENV=test rails db:migrate
 ```
 
-Rodando os testes
+Rodando os testes:
 ```bash
 rspec -f doc
 ```
