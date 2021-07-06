@@ -114,10 +114,10 @@ rspec -f doc
 ## API Documentation
 - Product
   - [list](#list-products)
-  - [get details](#list-products)
-  - [create](#list-products)
-  - [update](#list-products)
-  - [delete](#list-products)
+  - [get details](#get-product-details)
+  - [create](#create-a-product)
+  - [update](#update-a-product)
+  - [delete](#delete-a-product)
 
 ### List Products
 ```
